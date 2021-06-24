@@ -1,5 +1,4 @@
 # Computer-Graphics-Projects-
-Snake Game Simulation 
-Requerments for this project (we used):
-Windows OS
-OpenGL includeing glu, and glut
+Requerments for thes projects, we used:
+Windows OS,
+OpenGL graphics package includeing gl, glu, and glut
