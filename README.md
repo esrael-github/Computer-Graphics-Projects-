@@ -1,4 +1,4 @@
 # Computer-Graphics-Projects-
-Requerments for thes projects, we used:
-Windows OS,
+The implmentaion requerments of these projects are:-
+Windows OS and 
 OpenGL graphics package includeing gl, glu, and glut
